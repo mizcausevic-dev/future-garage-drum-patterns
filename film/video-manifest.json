@@ -1,0 +1,26 @@
+{
+  "title": "Future Garage Drum Patterns",
+  "study": "z4201",
+  "bpm": 140,
+  "source_audio": "preview/future-garage-drum-patterns-simple-synth-preview.mp3",
+  "source_audio_sha256": "926fac7211fc807254434cfbcc4144a30374768bf40dede3b607f8453f2d0bd9",
+  "source_midi": "midi/z4201-future-garage-drum-patterns-opening/z4201-future-garage-drum-patterns-opening-combined.mid",
+  "source_midi_sha256": "9bb6f92418a50807c275b07815ee5102519b45d6380c559668c9539b9736265f",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f25f03cf86093365621b0a7a740f95384b5e50f633528c4b3e39322b7bbd2cf2",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "e9b36e31766da7280d446cbfadaccf69c0d8b3f22258a68425123953a2c57226",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "0c3a05a02de00ddacdf1e4618e06e7a789ca404578a47c5cbb76662091c914e4",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

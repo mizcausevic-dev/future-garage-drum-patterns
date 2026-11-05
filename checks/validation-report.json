@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:10.107755+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "cbe847f4c53d72aeed4d45a273878c70df2c9f21145cb946bf3f3a7cbf828c02",
+      "errors": []
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1d2ae34c6b4bd5bf4971260481bb0b24c4d098a5c4735bad731675935b3f2fc1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "b07b65e6901f31bc84fca166d5d71e175f6d56fd1d54c9a7eb4219004d979c93",
+      "errors": []
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "02dd1f306edab8bfe649fb3bf8a45d5ba18ab9da94892f5af9bec0ad34a1f3b9",
+      "errors": []
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "e12f49780638cf9d1e9c84f2184b2c9cb9a8df27b2fdb534a20284dedaf3ae0d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "045199f6a99a3ae977bf2aab6b5a32ac3d4235efe8ec95ce5cf731e403d506ae",
+      "errors": []
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/z4201-future-garage-drum-patterns-opening-combined.mid",
+      "bytes": 5675,
+      "sha256": "9bb6f92418a50807c275b07815ee5102519b45d6380c559668c9539b9736265f",
+      "errors": []
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "afac104b6819696c77237deafcc2171a8911bb28804f05b1764b0b8df288baf9",
+      "errors": []
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e22216a286ee5c59421e3c4aa55f3b3e5e4fc3eedd4a7d56698548cc27777319",
+      "errors": []
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "b07b65e6901f31bc84fca166d5d71e175f6d56fd1d54c9a7eb4219004d979c93",
+      "errors": []
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "de9d82657be6f2ea193c8a0e386913727dd28cc071ceaa3b3abf13ca0553ff93",
+      "errors": []
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "6c294867e7a57a1689186767eb8c9f2fc2710229174f9c6e6f5169160a12b0d2",
+      "errors": []
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "df6b470854864aee9d4925d784a2095858168e0e0d971717124d23e595aa66ba",
+      "errors": []
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/z4202-future-garage-drum-patterns-variation-combined.mid",
+      "bytes": 5675,
+      "sha256": "b9d6aeb417dbf073ce1518c0113b044e67e163dc195cfefa79bd35814c587c44",
+      "errors": []
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "3b6006030a75c8a5f140c477c511e58680ac4e1f88325740823981107fa73767",
+      "errors": []
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8d0f82b5b5070b4b61f9980c0d5e07d84e5d0540b41da535440f0ba3553f71ae",
+      "errors": []
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "b07b65e6901f31bc84fca166d5d71e175f6d56fd1d54c9a7eb4219004d979c93",
+      "errors": []
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "02e40fdb05fdc41aa6f489f983ef364c93be7e721809550243e4d2cc13f70e83",
+      "errors": []
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "b7d0df093e98374378cfc0ab4ca2e496998f622ca33bf3ad42ea5ad67d92cc7b",
+      "errors": []
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9db8d6871ae0abfc0e8a96c43a0f950ac23fde7dc457558efc854eb9b754cc7e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/z4203-future-garage-drum-patterns-contrast-combined.mid",
+      "bytes": 5643,
+      "sha256": "948b085dc63bd074d3609301200d3f6f552e7f6da2da12b656d9eefb6fca4fb7",
+      "errors": []
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "0145e69289919a9dfe29b6d792e20217ea9a98cfa224a0ce0651dabab4dc6ac0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "9b662e47a893e43ad7145b8c1879aefd48739aa9988b42a000dde4ddcd3ee390",
+      "errors": []
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "b07b65e6901f31bc84fca166d5d71e175f6d56fd1d54c9a7eb4219004d979c93",
+      "errors": []
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "4bfba6923fd8ad4e8253a576c522b3d800874a1b260ad926d27fdffc56a41201",
+      "errors": []
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "928400a597418903e485ff1cc23743b4d1293b4b577824c5eb2e8975de4031c8",
+      "errors": []
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "82edf735f6ccbb4e52843c730f95ac2f3d16155e032f7472d8f903c9fdcefa98",
+      "errors": []
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/z4204-future-garage-drum-patterns-return-combined.mid",
+      "bytes": 5643,
+      "sha256": "f5dce4458afa370aecdfe8f2b00ce6922375f14c2b14060fe2a939023d0a82c2",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

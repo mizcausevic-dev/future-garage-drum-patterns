@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1935,
+      "sha256": "228ba1f4971e0155e78d571c38f2aa798416be58c0ab6588b30f671f08718dce"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 245946,
+      "sha256": "e9b36e31766da7280d446cbfadaccf69c0d8b3f22258a68425123953a2c57226"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2673919,
+      "sha256": "1537897159e3107341154e39f6ffcd6a2c50e7950253c8bb219747a9cc63a6c0"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 303,
+      "sha256": "4a06c1fb5bc0771daebf4549c5daa4ba4933d873ee462526ce13b7530a7778fe"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "8c603f014c72e8ce8d6f9c9ac8d6f6a914a6275db27b9a7fc435467c4ec6d21a"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 287127,
+      "sha256": "e88f6a0bd0ee1da6918bb76eab242fde197976113fad94ba912f7ca9af4d8e94"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 760,
+      "sha256": "b32aee9685e0bc5f807501c4d4617a466b17893800d1e9786932609e7981951e"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 760,
+      "sha256": "b32aee9685e0bc5f807501c4d4617a466b17893800d1e9786932609e7981951e"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 2044,
+      "sha256": "c103cdd472887ca9e0c64837b07716956766c6d2081b8edfd335fcdd1a0b33bb"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25526,
+      "sha256": "232fea0825096d8a054374108b780c9849e11db9c990f8efc68c59b201f629c4"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 99105,
+      "sha256": "f25f03cf86093365621b0a7a740f95384b5e50f633528c4b3e39322b7bbd2cf2"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2530,
+      "sha256": "9bacbb0a1bafecfdbbdb41c863cf380115d6d35bcd1b3970a229f6d99b93a10a"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "7b66c1fd36b8d9b5852774e36844a8b0b500d20df5c865693a8452ca256fb476"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1258,
+      "sha256": "3f06af3183aa55377984bed2a447971a8c2ff13c829c4dc6366bbd43ca02ee56"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 393,
+      "sha256": "523bbe5b263d3c8c4710030a02b29a5d79cc43b1ddd70b33e6028089ba73773b"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "8f1707bb5fc6f0dfe1e73465c87f69de8897b672779aed79d627854672616e1d"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z4201-drum-pattern-01.mid",
+      "bytes": 372,
+      "sha256": "0c6e447435cf983afb21fde7f0682168a31081ec33c864562db8dc5ac28ca88f"
+    },
+    {
+      "path": "clips/z4201-drum-pattern-02.mid",
+      "bytes": 380,
+      "sha256": "3871cb30c8bc2c56766e5143f8e9013333d6961ea2cfdf4a874c3f0b9d48faac"
+    },
+    {
+      "path": "clips/z4201-drum-pattern-03.mid",
+      "bytes": 379,
+      "sha256": "0f5d307812c1001af3efae042aa184418f2dfd902ba0c7fa88dadef631eb8d69"
+    },
+    {
+      "path": "clips/z4201-drum-pattern-04.mid",
+      "bytes": 380,
+      "sha256": "0ec9c2568b271412aa40d8930a8d8d8127d648c462b0955de2ca80bed6e05edd"
+    },
+    {
+      "path": "clips/z4202-drum-pattern-01.mid",
+      "bytes": 379,
+      "sha256": "d118b5be77782d0239788245aba3d2f5409602ab456aadc915e329f00559b8d9"
+    },
+    {
+      "path": "clips/z4202-drum-pattern-02.mid",
+      "bytes": 379,
+      "sha256": "25ce4d1bf08f415bf1d31c257a73da8e45dc79233855f84538b78026b4ef6388"
+    },
+    {
+      "path": "clips/z4202-drum-pattern-03.mid",
+      "bytes": 381,
+      "sha256": "7590963db81d4e20723efe975f8baed630aa2341130b40bd33741aee662ce47d"
+    },
+    {
+      "path": "clips/z4202-drum-pattern-04.mid",
+      "bytes": 381,
+      "sha256": "c4a31558701c2059f7b9edd7e38954bf389ddf73d39048cbe6c35002599a5a57"
+    },
+    {
+      "path": "clips/z4203-drum-pattern-01.mid",
+      "bytes": 379,
+      "sha256": "0cb0ee823a6b4f8b669acaef06144026fc9f8dda928ab12396683a487632cf52"
+    },
+    {
+      "path": "clips/z4203-drum-pattern-02.mid",
+      "bytes": 380,
+      "sha256": "831ea0e9d5d7a44a811e454affe4180d7b7a46ade78484ecbab1b49d68cac8db"
+    },
+    {
+      "path": "clips/z4203-drum-pattern-03.mid",
+      "bytes": 380,
+      "sha256": "d1de9fd5c3883198f20cfc604631741020ec72be27301fba97a9f46038419f14"
+    },
+    {
+      "path": "clips/z4203-drum-pattern-04.mid",
+      "bytes": 372,
+      "sha256": "d5011f1248cbd903b2703b2251d5bbd55f4e40342c88cac77bf92c2013abae25"
+    },
+    {
+      "path": "clips/z4204-drum-pattern-01.mid",
+      "bytes": 380,
+      "sha256": "81f80b9896c94ab451b73a7e843a2ec1b9382af8770744a4081ee65057a2c387"
+    },
+    {
+      "path": "clips/z4204-drum-pattern-02.mid",
+      "bytes": 380,
+      "sha256": "8134d8d11a89bb1f1aab9b1709291c72411b8e5efd002aba60cef326851ea47b"
+    },
+    {
+      "path": "clips/z4204-drum-pattern-03.mid",
+      "bytes": 372,
+      "sha256": "bb2920d776c7acc0b05815b21411ea14da1b1e7b7595522d3cc140030efb74e2"
+    },
+    {
+      "path": "clips/z4204-drum-pattern-04.mid",
+      "bytes": 380,
+      "sha256": "a06610ec0b94930ede5831aabde25968c69c0d49c37a8d9354e089547afcf7a0"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 445,
+      "sha256": "594a989bbeeab743b7d7dfccc3a0db1705be05650aa41f289ace8bfb9c15cbfe"
+    },
+    {
+      "path": "downloads/future-garage-drum-patterns-midi.zip",
+      "bytes": 32806,
+      "sha256": "1c8235faf8501a2f7fb86110919b7e6d0f449db3ae1be5aa4a7a36bc11111df7"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 3023,
+      "sha256": "97d3fd9a91e207f830e35f31c78ec47980dfd9c8626a549a219af5aa2b6e98f0"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 34002,
+      "sha256": "14e00922cd93a4b29a4914cd84569798cc0f406a05e77291bdd61630ee689df0"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 231938,
+      "sha256": "776506d10615f428db2f8512bd14fe68826849a39fa76d38717f3ed06b98c955"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 863821,
+      "sha256": "0c3a05a02de00ddacdf1e4618e06e7a789ca404578a47c5cbb76662091c914e4"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1242,
+      "sha256": "06ac79ef3c38a75dba930009abc7418c3492341ce1a4d4e6251a9315600ecdd7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10092,
+      "sha256": "f207cdcf010ea970961ed4d189c38529267636f6b3bcb267c61186aa79a4b98d"
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "cbe847f4c53d72aeed4d45a273878c70df2c9f21145cb946bf3f3a7cbf828c02"
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1d2ae34c6b4bd5bf4971260481bb0b24c4d098a5c4735bad731675935b3f2fc1"
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "b07b65e6901f31bc84fca166d5d71e175f6d56fd1d54c9a7eb4219004d979c93"
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "02dd1f306edab8bfe649fb3bf8a45d5ba18ab9da94892f5af9bec0ad34a1f3b9"
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "e12f49780638cf9d1e9c84f2184b2c9cb9a8df27b2fdb534a20284dedaf3ae0d"
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "045199f6a99a3ae977bf2aab6b5a32ac3d4235efe8ec95ce5cf731e403d506ae"
+    },
+    {
+      "path": "midi/z4201-future-garage-drum-patterns-opening/z4201-future-garage-drum-patterns-opening-combined.mid",
+      "bytes": 5675,
+      "sha256": "9bb6f92418a50807c275b07815ee5102519b45d6380c559668c9539b9736265f"
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "afac104b6819696c77237deafcc2171a8911bb28804f05b1764b0b8df288baf9"
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e22216a286ee5c59421e3c4aa55f3b3e5e4fc3eedd4a7d56698548cc27777319"
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "b07b65e6901f31bc84fca166d5d71e175f6d56fd1d54c9a7eb4219004d979c93"
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "de9d82657be6f2ea193c8a0e386913727dd28cc071ceaa3b3abf13ca0553ff93"
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "6c294867e7a57a1689186767eb8c9f2fc2710229174f9c6e6f5169160a12b0d2"
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "df6b470854864aee9d4925d784a2095858168e0e0d971717124d23e595aa66ba"
+    },
+    {
+      "path": "midi/z4202-future-garage-drum-patterns-variation/z4202-future-garage-drum-patterns-variation-combined.mid",
+      "bytes": 5675,
+      "sha256": "b9d6aeb417dbf073ce1518c0113b044e67e163dc195cfefa79bd35814c587c44"
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "3b6006030a75c8a5f140c477c511e58680ac4e1f88325740823981107fa73767"
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8d0f82b5b5070b4b61f9980c0d5e07d84e5d0540b41da535440f0ba3553f71ae"
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "b07b65e6901f31bc84fca166d5d71e175f6d56fd1d54c9a7eb4219004d979c93"
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "02e40fdb05fdc41aa6f489f983ef364c93be7e721809550243e4d2cc13f70e83"
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "b7d0df093e98374378cfc0ab4ca2e496998f622ca33bf3ad42ea5ad67d92cc7b"
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9db8d6871ae0abfc0e8a96c43a0f950ac23fde7dc457558efc854eb9b754cc7e"
+    },
+    {
+      "path": "midi/z4203-future-garage-drum-patterns-contrast/z4203-future-garage-drum-patterns-contrast-combined.mid",
+      "bytes": 5643,
+      "sha256": "948b085dc63bd074d3609301200d3f6f552e7f6da2da12b656d9eefb6fca4fb7"
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "0145e69289919a9dfe29b6d792e20217ea9a98cfa224a0ce0651dabab4dc6ac0"
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "9b662e47a893e43ad7145b8c1879aefd48739aa9988b42a000dde4ddcd3ee390"
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "b07b65e6901f31bc84fca166d5d71e175f6d56fd1d54c9a7eb4219004d979c93"
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "4bfba6923fd8ad4e8253a576c522b3d800874a1b260ad926d27fdffc56a41201"
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "928400a597418903e485ff1cc23743b4d1293b4b577824c5eb2e8975de4031c8"
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "82edf735f6ccbb4e52843c730f95ac2f3d16155e032f7472d8f903c9fdcefa98"
+    },
+    {
+      "path": "midi/z4204-future-garage-drum-patterns-return/z4204-future-garage-drum-patterns-return-combined.mid",
+      "bytes": 5643,
+      "sha256": "f5dce4458afa370aecdfe8f2b00ce6922375f14c2b14060fe2a939023d0a82c2"
+    },
+    {
+      "path": "preview/future-garage-drum-patterns-simple-synth-preview.mp3",
+      "bytes": 1330408,
+      "sha256": "926fac7211fc807254434cfbcc4144a30374768bf40dede3b607f8453f2d0bd9"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1191,
+      "sha256": "1af55456aa9beb45cd5235ad10331c25f4d09d2aec2a38a47f8b6c2412dde4ff"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4012,
+      "sha256": "c56272bb5c5e6848d621c46758e174c5c8d02107184b2f553249521a6242648c"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 230,
+      "sha256": "5e62512a6fdf4e454e67783594095459ead1649af73ce6ba5aeeeab52e0dc587"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 294882,
+      "sha256": "1dfa4492a22e0c21fab67cb5d794952d2e5277cec5251c96998447334cd576ba"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 258009,
+      "sha256": "961b7c44aade4f4b7de1d4f0bd5b805f6d625df363767aecb04cc44b0b3979f1"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 218622,
+      "sha256": "f4b793821f5ed9f239cc9a588cd96802a3dfa30eb416e6b43fd321b33ef19268"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 192,
+      "sha256": "0f0d843b55f962041e804bea36af5d92be2460f68a1c2d60a0460d2dd2ef3613"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "e50a48acc23057cfea35a85db073987aab7da97ca6af8c89255763249b2b8ff4"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}
