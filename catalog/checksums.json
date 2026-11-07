@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/future-garage-drum-patterns-midi.zip",
-      "bytes": 32806,
-      "sha256": "1c8235faf8501a2f7fb86110919b7e6d0f449db3ae1be5aa4a7a36bc11111df7"
+      "bytes": 33793,
+      "sha256": "0bd6c1eb7617202593570a362bc7c5469887cedbd9d9fe460ddd15feaa485bcb"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10092,
-      "sha256": "f207cdcf010ea970961ed4d189c38529267636f6b3bcb267c61186aa79a4b98d"
+      "bytes": 10282,
+      "sha256": "204b3716c0733a9e7eab5208939477cf7848d8d5482e04a5e2a2aa6a5441aba8"
     },
     {
       "path": "midi/z4201-future-garage-drum-patterns-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "f5dce4458afa370aecdfe8f2b00ce6922375f14c2b14060fe2a939023d0a82c2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/future-garage-drum-patterns-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "926fac7211fc807254434cfbcc4144a30374768bf40dede3b607f8453f2d0bd9"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4018,
-      "sha256": "6c4710f5e065b961b1141b0115e68144b4662e5a2997a8632cf0bd18e5814a1b"
+      "bytes": 4133,
+      "sha256": "7c774bd408348ec3281de10ddae1423dd7cf7dc1275792448a256ffac71556b8"
     },
     {
       "path": "social/instagram/caption.txt",
